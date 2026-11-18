@@ -1,0 +1,7 @@
+sentence-transformers>=3.0,<6
+scikit-learn>=1.4,<2
+pandas
+numpy
+matplotlib
+joblib
+requests
